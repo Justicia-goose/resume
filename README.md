@@ -1,7 +1,7 @@
 # resume
 # Ryan Pavlu
 
-**Industrial Automation Developer | Electrician | Python Enthusiast**  
+**Industrial Automation Developer | DevSecOps | Python Enthusiast | Hacker in training**  
 📍 Bryan, Texas (Remote Preferred)  
 🔗 GitHub: [Justicia-goose](https://github.com/Justicia-goose)
 
@@ -9,7 +9,7 @@
 
 ### 🔧 About Me
 
-I’m a licensed electrical apprentice with journeyman-level skills in industrial automation and instrumentation. Now transitioning into software development to build Python-based tools that improve technician workflows, integrate with PLCs and VFDs, and enable smarter maintenance using real-time data and industrial protocols.
+Automation technician redirecting my skills towards securing the systems Ive learned to install. SOC analyst and ethical hacker in training. 
 
 ---
 
@@ -32,8 +32,8 @@ I’m a licensed electrical apprentice with journeyman-level skills in industria
 
 ### 🧰 Skills
 
-- **Languages**: Python, JavaScript (basic), HTML/CSS  
-- **Protocols**: Modbus, MQTT, OPC-UA (learning)  
+- **Languages**: Python, JavaScript (basic), HTML/CSS, C++ 
+- **Protocols**: Modbus, MQTT, OPC-UA TCP/IP HTTP, HTTPS, SSH, SSL/TLS, (learning)  
 - **Tools**: Tkinter, Streamlit, SQLite, Git  
 - **Concepts**: GUI design, anomaly detection, predictive maintenance  
 - **Electrical**: PLCs, VFDs, sensors, instrumentation, troubleshooting
@@ -41,7 +41,9 @@ I’m a licensed electrical apprentice with journeyman-level skills in industria
 ---
 
 ### 📜 Certifications
-
+- CompTIA Security+ (In progress)
+- CISSP (In progress)
+- AWS Cloud Security (In progress)
 - Licensed Electrical Apprentice (Texas)  
 - Journeyman-level field expertise in automation and electrical systems
 
@@ -50,5 +52,5 @@ I’m a licensed electrical apprentice with journeyman-level skills in industria
 ### 🚀 Learning Goals
 
 Currently completing a 6-month roadmap to become a professional Industrial Python Developer. Focusing on tools that blend automation protocols with modern GUI and AI-driven solutions.
-
+Also learning to build a home network to attack and defend the network using VMs.
 ---
